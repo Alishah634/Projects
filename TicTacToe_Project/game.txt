@@ -1,0 +1,117 @@
+Starting Position:
+
+1|2|3
+-|-|- 
+4|5|6
+-|-|-
+7|8|9
+
+1. New Position:
+1|X|3
+-|-|- 
+4|5|6
+-|-|-
+7|8|9
+
+2. New Position:
+1|X|3
+-|-|- 
+O|5|6
+-|-|-
+7|8|9
+
+3. New Position:
+1|X|3
+-|-|- 
+O|X|6
+-|-|-
+7|8|9
+
+4. New Position:
+O|X|3
+-|-|- 
+O|X|6
+-|-|-
+7|8|9
+
+5. New Position:
+ERROR!!!
+Cannot place here marker already present!!!
+O|X|3
+-|-|- 
+O|X|6
+-|-|-
+7|8|9
+
+5. New Position:
+ERROR!!!
+Cannot place here marker already present!!!
+O|X|3
+-|-|- 
+O|X|6
+-|-|-
+7|8|9
+
+5. New Position:
+ERROR!!!
+Cannot place here marker already present!!!
+O|X|3
+-|-|- 
+O|X|6
+-|-|-
+7|8|9
+
+5. New Position:
+ERROR!!!
+Cannot place here marker already present!!!
+O|X|3
+-|-|- 
+O|X|6
+-|-|-
+7|8|9
+
+5. New Position:
+O|X|3
+-|-|- 
+O|X|X
+-|-|-
+7|8|9
+
+6. New Position:
+O|X|O
+-|-|- 
+O|X|X
+-|-|-
+7|8|9
+
+7. New Position:
+O|X|O
+-|-|- 
+O|X|X
+-|-|-
+X|8|9
+
+8. New Position:
+O|X|O
+-|-|- 
+O|X|X
+-|-|-
+X|O|9
+
+9. New Position:
+ERROR!!!
+Cannot place here marker already present!!!
+O|X|O
+-|-|- 
+O|X|X
+-|-|-
+X|O|9
+
+9. New Position:
+O|X|O
+-|-|- 
+O|X|X
+-|-|-
+X|O|X
+
+Game is a Draw!
